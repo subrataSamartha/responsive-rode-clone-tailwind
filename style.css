@@ -1,0 +1,61 @@
+#hero {
+  background-image: url("images/rode-rodcaster.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#section-2 {
+  background-image: url("images/rode-nth100-lifestyle-insitu-female-looking-down-grey-1920x700-rgb.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+#section-3 {
+  background-image: url("images/rode-nt-usb-webheader-v7-1920x700-rgb.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+#section-4 {
+  background-image: url("images/rode-podmic-section-4-large.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+#section-5 {
+  background-image: url("images/WIGOII-WEBHEADER-large.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+#section-6 {
+  background-image: url("images/rode-nt-usb-mini-webheader-large.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#explore-block-1 {
+  background-image: url("images/microphones-module-1200x300-rgb.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 278px;
+
+  /* height: 150px; */
+}
+
+@media screen and (max-width: 640px) {
+  #hero {
+    background-image: none;
+  }
+  #section-2 {
+    background-image: none;
+  }
+  #section-3 {
+    background-image: none;
+  }
+  #section-4 {
+    background-image: none;
+  }
+  #section-5 {
+    background-image: none;
+  }
+  #section-6 {
+    background-image: none;
+  }
+}
